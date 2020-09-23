@@ -1,0 +1,10 @@
+C:\Users\alexb\source\repos\Sum200Fix\Sum200Fix\obj\Debug\Sum200Fix.csprojAssemblyReference.cache
+C:\Users\alexb\source\repos\Sum200Fix\Sum200Fix\obj\Debug\Sum200.frmMain.resources
+C:\Users\alexb\source\repos\Sum200Fix\Sum200Fix\obj\Debug\Sum200Fix.Properties.Resources.resources
+C:\Users\alexb\source\repos\Sum200Fix\Sum200Fix\obj\Debug\Sum200Fix.csproj.GenerateResource.cache
+C:\Users\alexb\source\repos\Sum200Fix\Sum200Fix\obj\Debug\Sum200Fix.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\Sum200Fix\Sum200Fix\bin\Debug\Sum200Fix.exe.config
+C:\Users\alexb\source\repos\Sum200Fix\Sum200Fix\bin\Debug\Sum200Fix.exe
+C:\Users\alexb\source\repos\Sum200Fix\Sum200Fix\bin\Debug\Sum200Fix.pdb
+C:\Users\alexb\source\repos\Sum200Fix\Sum200Fix\obj\Debug\Sum200Fix.exe
+C:\Users\alexb\source\repos\Sum200Fix\Sum200Fix\obj\Debug\Sum200Fix.pdb
